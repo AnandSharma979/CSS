@@ -1,0 +1,29 @@
+body {
+  font-family:tahoma;
+  padding:0;
+  margin:0;
+}
+.parent {
+  width:1000px;
+}
+.header {
+  height:70px;
+  background-color:#b2e7ff;
+  font-size:24px;
+  color:black;
+  text-align:center;
+  border-bottom:2px solid #0ab1ff;
+}
+.paragraph-first {
+  margin:0;
+  padding-top:20px;
+}
+.column {
+  height:700px;
+}
+.first-child {
+  height:600px;
+  width:250px;
+  background-color:#0ab1ff;
+  padding:25px 10px;
+}
